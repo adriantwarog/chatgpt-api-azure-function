@@ -1,5 +1,8 @@
 # chatgpt-api-azure-function
 
+This project will create an Anzure Function that accesses the OpenAI API layer to perform a chat using GT4 and GT3.5 Turbo interfaces. Additional details can be found at the following Microsoft Link:
+https://aka.ms/AdrianTwarog
+
 Installation requirements 
 1. Create Azure Account
 2. Create OpenAI Account
@@ -10,3 +13,4 @@ Installation requirements
 
 For more information, check the official crash course video below:
 https://youtu.be/z06GqxsW1zw
+
