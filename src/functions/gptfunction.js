@@ -1,8 +1,8 @@
 const { app } = require('@azure/functions');
 const { Configuration, OpenAIApi } =require("openai");
 const configuration = new Configuration({
-	organization: "org-i16GdI3biVetsydNnhzCYRLs",
-	apiKey: "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",
+	organization: "org-",
+	apiKey: "sk-",
 });
 const openai = new OpenAIApi(configuration);
 
